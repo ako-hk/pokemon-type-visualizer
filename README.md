@@ -1,6 +1,6 @@
 # Pokémon Type Distribution Visualizer
 
-A React + TypeScript application that visualises the type distribution of the original 151 Pokémon (Generation 1) using data from the PokéAPI.
+A React + TypeScript application that visualizes the type distribution of the original 151 Pokémon (Generation 1) using data from the PokéAPI.
 
 ## Features
 
